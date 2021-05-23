@@ -2,7 +2,7 @@
 
 - This repository contains the methods that are usually required by a Java Developer atleast once in his/her life.
 
-- This methods/procedures usually sit in your Utility folder.
+- These methods/procedures usually sit in your Utility folder.
 
 
 # Contents
