@@ -13,7 +13,7 @@
 - necessary credentials and .pem files ( of ssh server and DB server).
 
 ## Connection - Diagram
-![N|Solid](https://raw.githubusercontent.com/clovity/JAVA-well-known-things/master/1/overall_connection_diagram.png)
+![image_link](https://raw.githubusercontent.com/satanlabs/JAVA-well-known-things/master/1/overall_connection_diagram.png)
 
 ## Notes
  Some mandatory / required data.
