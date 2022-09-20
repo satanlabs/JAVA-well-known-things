@@ -9,7 +9,7 @@
 
 1 : Connect to a DB-server via an ssh-server. (https://github.com/satanlabs/JAVA-well-known-things/tree/master/1)
 
-2 : Get string-data from file and/or convert base64-String to File . (https://github.com/satanlabs/JAVA-well-known-things/tree/master/2)
+2 : Base64 operations (encoding and decoding) . (https://github.com/satanlabs/JAVA-well-known-things/tree/master/2)
 
 3 : Create basic DB connection using Java. ( https://github.com/satanlabs/JAVA-well-known-things/tree/master/3 )
 
